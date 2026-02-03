@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MRV Zapata Industrial v7.2",
+  "description": "Premium industrial management system featuring offline-first Dexie.js database, real-time sync, and Gemini 3 Pro powered strategic analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
